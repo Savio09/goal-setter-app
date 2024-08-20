@@ -1,3 +1,4 @@
+//Mongoose is sorta like an ORM
 const mongoose = require("mongoose");
 
 const connectDB = async () => {
